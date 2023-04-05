@@ -23,6 +23,7 @@ public class menu {
                         saveStudents();
                         break;
                     case 4:
+                        System.out.println("Exitting...");
                         System.exit(0);
                     default:
                         System.out.println("Invalid option!");
